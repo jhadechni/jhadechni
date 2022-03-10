@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently studying software engineering at [Universidad del Norte](https://www.uninorte.edu.co/).
 - 🌱 I’m currently learning [Flutter](https://flutter.dev/?gclid=CjwKCAiA4KaRBhBdEiwAZi1zzpaVMNIYKfjhxcaWae60d0qcUgSJZR0UJbHnUbgKQ_1GzdBRYxgRTxoC9t8QAvD_BwE&gclsrc=aw.ds) ✨.
-- 📫 How to reach me: [Mail](mailto:jaimeluissierra88@gmail.com), [Twitter](https://twitter.com/jhadechnis).
+- 📫 How to reach me: [Mail](mailto:jaimeluissierra88@gmail.com).
 
 <!--
 **jhadechni/jhadechni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

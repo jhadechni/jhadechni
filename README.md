@@ -1,20 +1,12 @@
-### Hi there, I'm Jaime! 👋
+<h1 align="center">Hi 👋, I'm Jaime Sierra</h1>
+<h3 align="center">A passionate backend developer from Colombia 🇨🇴</h3>
 
-- 🔭 I’m currently studying software engineering at [Universidad del Norte](https://www.uninorte.edu.co/).
-- 🌱 I’m currently learning [Flutter](https://flutter.dev/?gclid=CjwKCAiA4KaRBhBdEiwAZi1zzpaVMNIYKfjhxcaWae60d0qcUgSJZR0UJbHnUbgKQ_1GzdBRYxgRTxoC9t8QAvD_BwE&gclsrc=aw.ds) ✨.
-- 📫 How to reach me: [Mail](mailto:jaimeluissierra88@gmail.com).
+- 🌱 I’m currently learning **Flutter**
 
-<!--
-**jhadechni/jhadechni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 📫 How to reach me **jaimeluissierra88@gmail.com**
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jhadechni&show_icons=true&locale=en&layout=compact" alt="jhadechni" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jhadechni&show_icons=true&locale=en" alt="jhadechni" /></p>

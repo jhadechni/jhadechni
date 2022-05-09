@@ -7,6 +7,4 @@
 
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jhadechni&show_icons=true&locale=en&layout=compact" alt="jhadechni" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jhadechni&show_icons=true&locale=en" alt="jhadechni" /></p>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jhadechni&show_icons=true&locale=en&layout=compact" alt="jhadechni" />

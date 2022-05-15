@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jaime Sierra</h1>
 <h3 align="center">A passionate backend developer from Colombia 🇨🇴</h3>
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Flutter!**
 
 - 📫 How to reach me **jaimeluissierra88@gmail.com**
 
